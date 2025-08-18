@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-08-18T02:37:08.000Z",
+      "message": "Pasos tarea",
+      "url": "https://github.com/Zadropol/IngeSoftwaretarea2/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 11,
+      "deletions": 2,
+      "date": "2025-08-18"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
