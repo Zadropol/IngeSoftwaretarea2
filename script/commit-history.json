@@ -1,17 +1,36 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "9b10a4b20a5875d31be890b0757b248163a54ed7",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-08-18T02:37:08.000Z",
       "message": "Pasos tarea",
-      "url": "https://github.com/Zadropol/IngeSoftwaretarea2/commit/HEAD"
+      "url": "https://github.com/Zadropol/IngeSoftwaretarea2/commit/9b10a4b20a5875d31be890b0757b248163a54ed7"
     },
     "stats": {
       "total": 13,
       "additions": 11,
       "deletions": 2,
       "date": "2025-08-18"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-08-21T12:50:13.000Z",
+      "message": "feat: agregar funcion saludador",
+      "url": "https://github.com/Zadropol/IngeSoftwaretarea2/commit/HEAD"
+    },
+    "stats": {
+      "total": 65,
+      "additions": 43,
+      "deletions": 22,
+      "date": "2025-08-21"
     },
     "coverage": 100,
     "test_count": 1,
